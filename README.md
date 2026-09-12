@@ -8,7 +8,7 @@
 
 </div>
 
-### 🛠️ Tech Stack
+### 🛠️ Стек технологий / Tech Stack
 
 <div align="center">
 
@@ -16,7 +16,31 @@
 
 </div>
 
-### 📬 Connect with me
+---
+
+### 📊 Статистика на GitHub / GitHub Stats
+
+<div align="center">
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=momachka2&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=momachka2&show_icons=true&theme=default">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=momachka2&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=momachka2&theme=default">
+</picture>
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momachka2&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+### 📬 Связаться со мной / Connect with me
 
 <div align="center">
 
@@ -25,6 +49,31 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:equipoise52@gmail.com)
 
 </div>
+
+---
+
+<details>
+<summary>☕ <b>Поддержать / Donate (CloudTips & Crypto)</b></summary>
+<br>
+
+Если проект оказался полезным, вы можете поддержать его развитие:
+
+### 💳 CloudTips (Карты РФ / СБП)
+[![CloudTips](https://img.shields.io/badge/CloudTips-Отправить_донат-4B70E2?style=for-the-badge&logo=tinkoff&logoColor=white)](https://pay.cloudtips.ru/p/e961c0fa)
+
+---
+
+### 🪙 Криптовалюта / Crypto
+
+| Монета / Сеть | Адрес кошелька |
+| :--- | :--- |
+| ![USDT](https://img.shields.io/badge/USDT_(TRC20)-50AF95?style=flat-square&logo=tether&logoColor=white) | `TG7rYQM4nsC293Eg7cJ1ph1kguLh1A8xCV` |
+| ![BTC](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | `bc1q5zmn5f3egeja9v9fwdjn2ld773k4sq0wv8csh3` |
+| ![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | `0x46922F2abf0eA51E255C6a62bC8Fb71e604Bad76` |
+
+> *Спасибо за поддержку! 🙏* / *tysm for support🙏*
+
+</details>
 
 <br>
 
